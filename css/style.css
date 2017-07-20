@@ -21,6 +21,10 @@ div {
     overflow: auto;
 }
 
+a {
+    color: #000;
+}
+
 #logoImage {
     height: 2rem;
 }
